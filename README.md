@@ -7,14 +7,14 @@ It acts as a smart on-screen assistant that understands user context and enhance
 
 ## 🚀 Features
 
-- 🧠 **AI-powered assistant overlay**
-- 👁️ **Real-time screen content detection using Accessibility Service**
-- 💬 **Chat history storage & conversation manager**
-- 🛠️ **Local AI model manager**
-- ⚙️ **User preferences & settings management**
-- 🧩 **Floating overlay UI (chat bubble style)**
-- 🔒 **Permission handling for accessibility & overlays**
-- 🔄 **Background service auto-restart worker**
+-  **AI-powered assistant overlay**
+-  **Real-time screen content detection using Accessibility Service**
+-  **Chat history storage & conversation manager**
+-  **Local AI model manager**
+-  **User preferences & settings management**
+-  **Floating overlay UI (chat bubble style)**
+-  **Permission handling for accessibility & overlays**
+-  **Background service auto-restart worker**
 
 ---
 
@@ -42,7 +42,6 @@ app/src/main/java/com/example/screensage/
 ├── storage/ # Chat history storage
 ├── ui/ # UI theme & components
 └── utils/ # Permission & helper utilities
-
 
 
 ---
@@ -82,4 +81,5 @@ Use Android Studio Emulator or Physical Device
 Click Run ▶️
 
 Grant required permissions
+
 
